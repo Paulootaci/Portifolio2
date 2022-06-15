@@ -1,7 +1,14 @@
-# Portifolio2
+# Portfolio2
 
 Meu segundo projeto
 
 ## taferas
 
-o controle de tarefas desse projeto sera realizado no GitHub
+O controle de tarefas desse projeto será realizado no GitHub
+
+## Ícones
+
+:package: nova funcionalidade
+:up: atualização
+:beatle: correção de bug
+:checkered_flag: release
