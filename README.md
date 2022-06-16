@@ -1,6 +1,6 @@
 # Portfolio2
 
-Meu segundo projeto
+Portfolio do desenvolvedor
 
 ## taferas
 
